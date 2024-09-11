@@ -1,2 +1,2 @@
-# ceretificate_generator
+# certificate_generator
 Generates certificates automatically.
